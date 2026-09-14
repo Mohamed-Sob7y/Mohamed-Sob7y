@@ -64,9 +64,8 @@ I enjoy working with data, building Machine Learning models, and continuously im
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile here
-- 📧 Email: Add your email here
-- 🌐 Portfolio: Add your website here
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-sobhy-3a474a372?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 Email: mhmdsophy864@gmail.com
 
 ---
 
