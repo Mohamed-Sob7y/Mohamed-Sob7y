@@ -43,14 +43,6 @@ I enjoy working on **Machine Learning, Deep Learning, Data Science, and AI proje
 * Naive Bayes
 * PCA
 
-### Deep Learning
-
-* TensorFlow
-* Neural Networks
-* RNN
-* LSTM
-* GRU
-* BiLSTM
 
 ### Tools & Technologies
 
@@ -59,18 +51,6 @@ I enjoy working on **Machine Learning, Deep Learning, Data Science, and AI proje
 * Git & GitHub
 * Streamlit
 * Gradio
-
----
-
-
-## 📊 What I'm Currently Learning
-
-* Advanced Machine Learning
-* Deep Learning
-* NLP
-* MLOps
-* Model Deployment
-* AI Applications
 
 ---
 
