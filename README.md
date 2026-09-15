@@ -62,27 +62,6 @@ I enjoy working on **Machine Learning, Deep Learning, Data Science, and AI proje
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔧 Predictive Maintenance
-
-Machine Learning project focused on predicting machine failures using industrial data.
-
-**Tech:** Python • Pandas • Scikit-learn • Machine Learning • Streamlit
-
-### 📈 Stock Market Sentiment Analysis
-
-Deep Learning project using **RNN, LSTM, GRU, and BiLSTM** to classify stock market sentiment into positive, negative, and neutral categories.
-
-**Tech:** Python • TensorFlow • Deep Learning • NLP
-
-### 🌾 Agriculture & Crop Yield Prediction
-
-Machine Learning projects focused on analyzing agricultural data and predicting crop yield.
-
-**Tech:** Python • Pandas • Scikit-learn • Data Visualization
-
----
 
 ## 📊 What I'm Currently Learning
 
