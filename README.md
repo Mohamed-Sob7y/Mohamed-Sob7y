@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed Sobhy 👋
+# Hi there, I'm Mohamed Ahmed Sobhy 👋
 
 ### 🤖 Machine Learning Engineer | AI Enthusiast | Computer Science Student
 
