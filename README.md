@@ -56,7 +56,7 @@ I enjoy working on **Machine Learning, Deep Learning, Data Science, and AI proje
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/mohamed-sobhy-3a474a372?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* 💼 LinkedIn: https://www.linkedin.com/in/mohamed-ahmed-sobhy-3a474a372/
 * 📧 Email: mhmdsophy864@gmail.com
 * 🌐 Portfolio: **Coming Soon**
 
