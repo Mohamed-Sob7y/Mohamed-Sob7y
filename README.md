@@ -34,14 +34,13 @@ I enjoy working on **Machine Learning, Deep Learning, Data Science, and AI proje
 * Scikit-learn
 * Regression
 * Classification
-* Clustering
 * Decision Trees
 * Random Forest
 * XGBoost
 * SVM
 * KNN
 * Naive Bayes
-* PCA
+
 
 
 ### Tools & Technologies
